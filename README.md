@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+## Diego Landeros
 
 Please read through all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
 
